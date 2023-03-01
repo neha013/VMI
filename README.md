@@ -1,7 +1,7 @@
 # Visual-Motion-Interaction-Guided-Pedestrian-Intention-Prediction-Framework
 ![image](https://user-images.githubusercontent.com/41139808/222060458-2e3d6fd6-ccfc-4cbe-a6ef-fa5e8511fd7b.png)
 
-This is the python implementation for paper ***Neha Sharma, Chhavi Dhiman, S. Indu***, *"Visual-Motion-Interaction Guided Pedestrian Intention Prediction Framework".*
+This is the official python implementation for paper ***Neha Sharma, Chhavi Dhiman, S. Indu***, *"Visual-Motion-Interaction Guided Pedestrian Intention Prediction Framework".*
  
 The capability to comprehend the intention of
 pedestrians on road is one of the most crucial skills that the current
@@ -30,3 +30,7 @@ to investigate the effect of different fusion architectures and design
 parameters of all encoders. The proposed VMI framework is able
 to predict the pedestrian crossing intention 2.5 sec ahead of the
 crossing event. 
+
+
+## Datasets
+The proposed framework is trained and tested on JAAD and PIE datasets. The precomputed pose features for both the datasets are available inside folder data/features/pie/poses/ and data/features/jaad/poses/. The model weights are also provided in the folder data/models/ to regenerate the results published in the paper
