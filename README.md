@@ -1,4 +1,8 @@
 # Visual-Motion-Interaction-Guided-Pedestrian-Intention-Prediction-Framework
+![image](https://user-images.githubusercontent.com/41139808/222060458-2e3d6fd6-ccfc-4cbe-a6ef-fa5e8511fd7b.png)
+
+This is the python implementation for paper ***Neha Sharma, Chhavi Dhiman, S. Indu***, *"Visual-Motion-Interaction Guided Pedestrian Intention Prediction Framework".*
+ 
 The capability to comprehend the intention of
 pedestrians on road is one of the most crucial skills that the current
 autonomous vehicles (AVs) are striving for, to become fully
@@ -26,4 +30,3 @@ to investigate the effect of different fusion architectures and design
 parameters of all encoders. The proposed VMI framework is able
 to predict the pedestrian crossing intention 2.5 sec ahead of the
 crossing event. 
-![image](https://user-images.githubusercontent.com/41139808/222060458-2e3d6fd6-ccfc-4cbe-a6ef-fa5e8511fd7b.png)
