@@ -33,4 +33,4 @@ crossing event.
 
 
 ## Datasets
-The proposed framework is trained and tested on the benchmark [PIE](http://data.nvision2.eecs.yorku.ca/PIE_dataset/) and [JAAD](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/) datasets. The precomputed pose features for both the datasets are available inside folder `data/features/pie/poses/` and `data/features/jaad/poses/`. The model weights are also provided in the folder `data/models/` to regenerate the results published in the paper.
+The proposed framework is trained and tested on the benchmark [PIE](http://data.nvision2.eecs.yorku.ca/PIE_dataset/) and [JAAD](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/) datasets. The precomputed pose features for both the datasets are available inside folder `data/features/pie/poses/` and `data/features/jaad/poses/`. 
