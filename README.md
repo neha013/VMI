@@ -1,5 +1,5 @@
 # Visual-Motion-Interaction-Guided-Pedestrian-Intention-Prediction-Framework
-![Capture](https://github.com/neha013/VMI/assets/41139808/aa1481f1-0d9e-4e39-a8ce-fa4c9b6216a8)
+![architecture](https://github.com/neha013/VMI/assets/41139808/346530e9-9748-4eda-bf7e-255d97915b6f)
 
 This is the official python implementation for paper, [*"Visual-Motion-Interaction Guided Pedestrian Intention Prediction Framework".*](https://ieeexplore.ieee.org/document/10264803) authored by  ***Neha Sharma, Chhavi Dhiman, S. Indu***
  
