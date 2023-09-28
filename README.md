@@ -1,7 +1,7 @@
 # Visual-Motion-Interaction-Guided-Pedestrian-Intention-Prediction-Framework
 ![Capture](https://github.com/neha013/VMI/assets/41139808/aa1481f1-0d9e-4e39-a8ce-fa4c9b6216a8)
 
-This is the official python implementation for paper ***Neha Sharma, Chhavi Dhiman, S. Indu***, [*"Visual-Motion-Interaction Guided Pedestrian Intention Prediction Framework".*](https://ieeexplore.ieee.org/document/10264803)
+This is the official python implementation for paper, [*"Visual-Motion-Interaction Guided Pedestrian Intention Prediction Framework".*](https://ieeexplore.ieee.org/document/10264803) authored by  ***Neha Sharma, Chhavi Dhiman, S. Indu***
  
 The capability to comprehend the intention of
 pedestrians on road is one of the most crucial skills that the current
